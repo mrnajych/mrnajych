@@ -80,7 +80,7 @@ With a B.Tech in CSE from SRM University and 2.5 years at Accenture working on c
 <p>
 Feel free to text me !!!
 
-> [![Github](https://img.shields.io/badge/-Github-181717?style=plastic&logo=Github&logoColor=white)](https://github.com/KasiMuthuveerappan)
+> [![Github](https://img.shields.io/badge/-Github-181717?style=plastic&logo=Github&logoColor=white)](https://github.com/mrnajych)
 
 > [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kasimuthuveerappan)
 
