@@ -80,6 +80,8 @@ With a B.Tech in CSE from SRM University and 2.5 years at Accenture working on c
 <p>
 Feel free to text me !!!
 
+> [<a href="https://www.leetcode.com/mritunjay_123" target="blank"><img align="center" src="https://workablehr.s3.amazonaws.com/uploads/account/open_graph_logo/604858/social?1687549873000" alt="mritunjay_123" height="30" width="60" /></a>]()
+
 > [![Github](https://img.shields.io/badge/-Github-181717?style=plastic&logo=Github&logoColor=white)](https://github.com/mrnajych)
 
 > [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mritunjay-natani/)
@@ -96,12 +98,9 @@ Feel free to text me !!!
   
 ####  Statistics :
 
-> <p><img align="center" src="https://komarev.com/ghpvc/?username=kasimuthuveerappan&label=Profile%20views&theme=vision-friendly-dark&style=plastic" alt="kasimuthuveerappan" /> </p>
+> <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrnajych&label=Profile%20views&color=0e75b6&style=flat" alt="mrnajych" /> </p>
 
- ![Mritunjay github stats](https://github-readme-stats.vercel.app/api?username=KasiMuthuveerappan&count_private=true&theme=vision-friendly-dark&hide=contribs,prs)
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrnajych&show_icons=true&theme=dark&bg_color=080707&locale=en" alt="mrnajych" /></p>
 
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasimuthuveerappan&theme=vision-friendly-dark" alt="kasimuthuveerappan" /></p>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasimuthuveerappan&theme=vision-friendly-dark&layout=compact)](https://github.com/kasimuthuveerappan/github-readme-stats)
 
-------------
