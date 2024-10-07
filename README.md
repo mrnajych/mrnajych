@@ -82,11 +82,11 @@ Feel free to text me !!!
 
 > [![Github](https://img.shields.io/badge/-Github-181717?style=plastic&logo=Github&logoColor=white)](https://github.com/mrnajych)
 
-> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kasimuthuveerappan)
+> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mritunjay-natani/)
 
-> [![Gmail Badge](https://img.shields.io/badge/-kasimuthu-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:kasi4muthu@gmail.com)](mailto:kasi4muthu@gmail.com)
+> [![Gmail Badge](https://img.shields.io/badge/-kasimuthu-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:mritunjaynatani1@gmail.com)](mailto:mritunjaynatani1@gmail.com)
 
-> [![Outlook](https://img.shields.io/badge/kasimuthu-0078D4?style=plastic&logo=monero&logoColor=white)](kasi4muthu@outlook.com)
+> [![Outlook](https://img.shields.io/badge/kasimuthu-0078D4?style=plastic&logo=monero&logoColor=white)](mritunjaynatani1@gmail.com)
 
 
 </p>
@@ -98,7 +98,7 @@ Feel free to text me !!!
 
 > <p><img align="center" src="https://komarev.com/ghpvc/?username=kasimuthuveerappan&label=Profile%20views&theme=vision-friendly-dark&style=plastic" alt="kasimuthuveerappan" /> </p>
 
- ![kasi's github stats](https://github-readme-stats.vercel.app/api?username=KasiMuthuveerappan&count_private=true&theme=vision-friendly-dark&hide=contribs,prs)
+ ![Mritunjay github stats](https://github-readme-stats.vercel.app/api?username=KasiMuthuveerappan&count_private=true&theme=vision-friendly-dark&hide=contribs,prs)
 
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasimuthuveerappan&theme=vision-friendly-dark" alt="kasimuthuveerappan" /></p>
 
