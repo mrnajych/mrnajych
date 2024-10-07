@@ -45,20 +45,18 @@ Here are some ideas to get you started:
 
 ### 🤷‍♂️ About Me:
 
-I'm a ComputerScience Masters student in AIML & DS with expertising in data analysis and reporting, query optimization, data modelling and data visualizations. 
+With a B.Tech in CSE from SRM University and 2.5 years at Accenture working on cutting-edge projects like Mayo Clinic and EPIC Health, I've honed my skills in HTML, CSS, JavaScript, React, and Node.js—building dynamic projects that blend innovation with technical expertise.
 
 
 
-- Generate reports and perform data analysis by querying data using SQL.
-- Developing dashboards on Tableau and Excel.
-- Data analysis and reporting using Google Sheets and Microsoft Excel.
-- Utlizing Python and its libraries for data manipulation and wrangling.
-- A brief EDA using Hypothesis Testing and Feature Engg using Scipy for Statistical Analysis.
-- Currently pioneering in Prompt Engineering and GenAi through HuggingFace🤗
-- Currently Learning the Machine learning algorithms(Supervised and Unsupervised).
+- A B.Tech graduate in CSE from SRM University with 2.5 years of experience at Accenture, working on projects like Mayo Clinic and EPIC Health.
+- Skilled in front-end and back-end development with expertise in HTML, CSS, JavaScript, React, and Node.js.
+- Experienced software professional with a strong background in healthcare projects and web development technologies.
+- Passionate about building user-friendly web applications, with hands-on experience in both testing and development.
+- I have a strong command of Tailwind CSS and have successfully completed cloning projects of Razorpay and Discord, having ability with precision and style.
 
-> <p><img align="center" src="https://komarev.com/ghpvc/?username=kasimuthuveerappan&label=Profile%20views&color=red&style=plastic" alt="kasimuthuveerappan" width="150" height="25" /> </p>
 
+> 
 <div size="200px" align="center">
 
 ## 📂 My Work Index 👇 
