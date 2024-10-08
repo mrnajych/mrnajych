@@ -70,7 +70,7 @@ With a B.Tech in CSE from SRM University and 2.5 years at Accenture working on c
 
 | Project Link 🫵🏼 | Tools Used | Area of Analysis | Project Description | 
 |----- |---|---|---|
-| [![LoanTap](https://img.shields.io/badge/LoanTap-6001D2?style=for-the-badge&logo=tails&logoColor=magenta)](https://github.com/KasiMuthuveerappan/LoanTap-LogisticRegression)| Numpy, Pandas, Seaborn, scipy, sklearn, Normalization, LogisticRegression, Model optimization | EDA, Feature Engineering, Feature selection, MachineLearning, Predictive Modelling, Hyperparameter Tuning(λ), Cross_validation  | This repository delves into Logistic Regression for loan approval prediction at `LoanTap`. It covers data preprocessing, model development, evaluation metrics, and strategic business recommendations. Explored model optimization techniques to effectively mitigate default risks.|
+| [![Weather API](https://cdn-icons-png.flaticon.com/512/1163/1163657.png)](https://github.com/mrnajych/Weather-app)|HTML, CSS, JavaScript, React, Tailwind CSS, Fetch API, Node.js, OpenWeatherMap API | Key areas of analysis for a weather app include user experience, data accuracy, performance, security, scalability, and maintainability, ensuring the app is user-friendly, reliable, and efficient. Additionally, attention to accessibility and proper deployment strategies ensures a seamless experience for all users. | A weather app that provides real-time weather updates and forecasts by integrating with external weather APIs, offering users accurate data and a user-friendly interface for checking current conditions and future predictions. It focuses on responsiveness, performance, and reliable data handling|
 
 
 *** 
